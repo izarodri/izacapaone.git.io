@@ -1,0 +1,193 @@
+body {
+    font-family: 'Montserrat';
+    color: var(--color3);
+    margin: 0;
+    
+    
+}
+
+:root{
+    --color1: #0e3746;
+    --color2: #eae8dc;
+    --color3: #f4f2ec;
+    --color4: #be2623;
+    --black: #000000;
+
+}
+
+main{
+    background-color: #000000;
+   
+}
+.in{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.titu{
+    font-size: 100px;
+    font-weight: 4000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.subtitu{
+    font-size: 60px;
+    font-weight: 1000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin-bottom: 5px;
+    padding-top: 30px;
+    padding-left: 3%;
+}
+
+.iza{
+    padding: auto;
+    background-color: #000000;
+    border: 0px;
+}
+
+.capa{
+    border-radius: 20px;
+   
+    
+}
+
+.texim{
+    float: right;
+    
+}
+
+div.capaa{
+    margin-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+   
+}
+
+nav{
+    background: #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0px;
+}
+
+
+
+.secao2{
+    background : #000000;
+    color: var(--color3);
+}
+
+section{
+    width: 100%;
+    left: 100%;
+    
+    padding-bottom: 80px;
+    padding-top: 1px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    flex-shrink: 0;
+    margin-right: 20px;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.5);
+}
+
+.decorative-line {
+    border: none;
+    border-top: 1px solid var(--color3);
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+ 
+
+h1,h2,h3,h4,h5,h6,p{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.roger{
+    border-top-left-radius: 40px;
+    float: right;
+}
+
+
+.positioon{
+    padding-top: 300px;
+    position: relative;
+    
+}
+div.lenda{
+    padding: 20px;
+    background-color: var(--color1);
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 10px;
+    width: 50%;
+    text-align: justify;
+  
+
+}
+
+.container {
+    position: relative;
+  }
+  
+  .texto {
+    position: absolute;
+    top: 450px;
+    left: 71.9%;
+    
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    background-color: rgba(170, 9, 9, 0.979); /* cor de fundo com transparência */
+    padding: 40px;
+    width: 50%;
+    color: var(--color2);
+    text-align: justify;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+
+  }
+  
+  .container img {
+    position: relative;
+    z-index: 1;
+   
+  }
+
+  .secao-1 {
+     /* Adicione margem inferior para criar espaço */
+    margin-top: 40px;
+  }
+  
+  .secao-2 {
+    margin-bottom: 40px; /* Adicione margem superior para criar espaço */
+  }
+
+  .eleriu{
+    margin-right: 250px;
+   border: solid 1px rgb(255, 255, 255);
+   
+
+  }
+
+  .recompensa{
+    padding: 10px;
+  }
+
+  .direi{
+    float: right;
+  
+  }
